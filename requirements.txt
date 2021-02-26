@@ -1,0 +1,7 @@
+numpy
+gym==0.21.0
+pybullet
+sphinx
+numpydoc
+sphinx-gallery
+sphinx-bootstrap-theme

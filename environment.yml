@@ -1,0 +1,14 @@
+name: pybullet_doc
+channels:
+    - conda-forge
+dependencies:
+    - python=3.9
+    - numpy
+    - pip
+    - pip:
+        - gym==0.21.0
+        - pybullet
+        - sphinx
+        - numpydoc
+        - sphinx-gallery
+        - sphinx-bootstrap-theme
