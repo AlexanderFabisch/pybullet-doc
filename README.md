@@ -17,7 +17,7 @@ SDK. To properly set up this environment, execute the following commands:
 ```bash
 git clone https://github.com/bulletphysics/bullet3.git
 cd bullet3
-https://github.com/AlexanderFabisch/pybullet-doc.git
+git clone https://github.com/AlexanderFabisch/pybullet-doc.git
 # or git clone git@github.com:YourUserName/pybullet-doc.git if you forked the repo
 cd pybullet-doc
 ```
